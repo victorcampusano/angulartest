@@ -84,7 +84,6 @@ export class AppComponent {
     localStorage.setItem('misnotas',JSON.stringify(this.misnotas));
     this.mostrar_formulario = false;
 
-
   }
 
  /* eliminarNota() {
